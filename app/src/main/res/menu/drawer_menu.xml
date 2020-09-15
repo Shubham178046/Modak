@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"  >
+
+        <item
+            android:id="@+id/menu1"
+            android:icon="@mipmap/leftmenu_icon1"
+            android:title="Home"/>
+
+    <item android:title="">
+        <menu>
+        <item
+            android:id="@+id/menu2"
+            android:icon="@mipmap/leftmenu_icon2"
+            android:title="My Profile"/>
+        <item
+            android:id="@+id/menu3"
+            android:icon="@mipmap/leftmenu_icon3"
+            android:title="My Addresses"/>
+        <item
+            android:id="@+id/menu4"
+            android:icon="@mipmap/leftmenu_icon4"
+            android:title="Payment Info"/>
+
+        </menu>
+    </item>
+
+    <item android:title="">
+        <menu>
+        <item
+            android:id="@+id/menu5"
+            android:icon="@mipmap/leftmenu_icon5"
+            android:title="Notification"/>
+        <item
+            android:id="@+id/menu6"
+            android:icon="@mipmap/leftmenu_icon6"
+            android:title="Free Meals"/>
+        <item
+            android:id="@+id/menu7"
+            android:icon="@mipmap/leftmenu_icon7"
+            android:title="Settings"/>
+        <item
+            android:id="@+id/menu8"
+            android:icon="@mipmap/leftmenu_icon6"
+            android:title="Help"/>
+        <item
+            android:id="@+id/menu9"
+            android:icon="@mipmap/leftmenu_icon7"
+            android:title="Logout"/>
+        </menu>
+    </item>
+
+</menu>

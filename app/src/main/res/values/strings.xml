@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Modak</string>
+    <string name="create_account">Create Account</string>
+    <string name="terms_and_condition">Terms and Condition</string>
+    <string name="yes_i_have_read_and_accept">Yes I have read and accept</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="city">City</string>
+    <string name="apartment_unit">Apartment/Unit</string>
+    <string name="street_name">Street Name</string>
+    <string name="block_no">Block No</string>
+    <string name="area_code">Area Code</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="todo">TODO</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="please_login_or_register_to_continue_with_your_order">Please login or register to continue with your order</string>
+    <string name="connect_using">connect using</string>
+    <string name="or">OR</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login">Login</string>
+    <string name="enter_cell_no">Enter Cell No</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
